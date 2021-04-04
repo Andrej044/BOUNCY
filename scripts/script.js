@@ -290,7 +290,7 @@ galleryImgs.forEach((divImg) => {
 
 const teamObject = [
   {
-    img: "/img/team1.png",
+    img: "../img/team1.png",
     name: "Abdullah Noman",
     position: "Creative Director code Cafe",
     brandingPercent: 90,
@@ -298,7 +298,7 @@ const teamObject = [
     UIPercent: 75,
   },
   {
-    img: "/img/team2.png",
+    img: "../img/team2.png",
     name: "Rahim Kutrapalli",
     position: "Manager code Cafe",
     brandingPercent: 85,
@@ -306,7 +306,7 @@ const teamObject = [
     UIPercent: 95,
   },
   {
-    img: "/img/team3.png",
+    img: "../img/team3.png",
     name: "Mahmud Jonhatan",
     position: "Creative Artist code Cafe",
     brandingPercent: 80,
